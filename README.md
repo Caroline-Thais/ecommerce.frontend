@@ -1,5 +1,11 @@
 # AngularEcommerce
 
+<img width="1366" alt="Captura de Tela 2024-01-10 às 15 27 08" src="https://github.com/Caroline-Thais/ecommerce.frontend/assets/76595905/128869d9-b67e-4605-9746-3995268b6b0a">
+
+
+<img width="1366" alt="Captura de Tela 2024-01-10 às 15 27 22" src="https://github.com/Caroline-Thais/ecommerce.frontend/assets/76595905/7f1cd211-7eab-4077-b426-640351d40d0e">
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
 
 ## Development server
